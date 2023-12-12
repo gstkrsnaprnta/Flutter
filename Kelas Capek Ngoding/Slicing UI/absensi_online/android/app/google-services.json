@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "254098781929",
+    "project_id": "absensi-firebase-82d5e",
+    "storage_bucket": "absensi-firebase-82d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254098781929:android:ffb786099217712151a278",
+        "android_client_info": {
+          "package_name": "com.example.absensi_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254098781929-2qj338bd6d1pcv9a15vpp1dej1sciu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi__Mhw9cjSL0JqFlgnb-F_RRt7dbZipg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254098781929-2qj338bd6d1pcv9a15vpp1dej1sciu7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254098781929-a64uo875ni81cbc7rr9equj2ji39in90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absensiOnline.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
